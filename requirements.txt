@@ -1,0 +1,7 @@
+google-generativeai
+speechrecognition
+pyaudio
+edge-tts
+pygame
+pillow
+keyboard
